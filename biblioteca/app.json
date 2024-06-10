@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "biblioteca",
+    "slug": "biblioteca",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
